@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishesh Jain
 - 👀 I’m interested in Web Development as well as travelling around the world
-- 🌱 I’m currently learning Full Stack web development, Al, ML 
+- 🌱 I’m currently learning Full Stack web development and Al, ML 
 - 💞️ I’m looking to collaborate on creating a website
 - 📫 How to reach me : contact me by email on visheshjain003@yahoo.com
 - 😄 Pronouns: He/ Him
